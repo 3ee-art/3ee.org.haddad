@@ -7,8 +7,8 @@ import TechMarquee from "@/components/TechMarquee";
 import Footer from "@/components/Footer";
 
 export const metadata = {
-  title: "3EE | Mohamed Yassin Haddad",
-  description: "Official Portal of 3EE Organization. Cybersecurity & Software Development Excellence.",
+  title: "Official Portal - Mohamed Yassin Haddad",
+  description: "Excellence in cybersecurity and software development. Founded by Mohamed Yassin Haddad, the best security expert in Fnideq, Morocco.",
 };
 
 export default function Home() {
